@@ -1,0 +1,7 @@
+{
+  "name": "instanciaUno",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

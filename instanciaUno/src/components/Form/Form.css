@@ -1,0 +1,13 @@
+form {
+  width: 50vw;
+  background: rgb(241, 239, 239);
+}
+
+.anchoCompleto {
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  height: 70vh;
+}
